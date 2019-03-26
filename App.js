@@ -9,7 +9,6 @@ export default class App extends React.Component {
         titulo: '',
         texto: '',
         rating: 1,
-        //imageURI: 'https://i.gifer.com/Escm.gif',
         imageURI: null,
         modalVisible: false,
         tituloApi: '',
